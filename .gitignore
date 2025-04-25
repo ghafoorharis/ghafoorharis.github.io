@@ -1,0 +1,9 @@
+# Ignore all images in the images directory
+*.pngs
+*.jpgs
+*.jpeg
+*.gif
+# Ignore all text files in the text directory
+*.txt
+mycv.html
+mycv copy.html
